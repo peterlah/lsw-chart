@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-25T11:17:51.511999+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 31824b5b1a9b5417365ff6c81e4f29f383a40d58bc05a172d2723a58acd786b6
+    name: mychart
+    type: application
+    urls:
+    - https://peterlah.github.io/lsw-chart/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-25T11:17:51.51141+09:00"
